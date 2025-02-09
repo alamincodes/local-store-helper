@@ -1,0 +1,38 @@
+{
+  "name": "local-store-helper",
+  "version": "1.0.0",
+  "description": "A lightweight and type-safe utility for managing localStorage in JavaScript, React, and Next.js projects.",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    "import": "./dist/index.js",
+    "require": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "localStorage",
+    "react",
+    "nextjs",
+    "typescript",
+    "storage",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alamin/local-store-helper"
+  },
+  "bugs": {
+    "url": "https://github.com/Alamin/local-store-helper/issues"
+  },
+  "homepage": "https://github.com/Alamin/local-store-helper#readme",
+  "author": "Alamin",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "typescript": "^5.7.3"
+  }
+}
