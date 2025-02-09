@@ -23,12 +23,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alamin/local-store-helper"
+    "url": "https://github.com/alamincodes/local-store-helper"
   },
   "bugs": {
-    "url": "https://github.com/Alamin/local-store-helper/issues"
+    "url": "https://github.com/alamincodes/local-store-helper/issues"
   },
-  "homepage": "https://github.com/Alamin/local-store-helper#readme",
+  "homepage": "https://github.com/alamincodes/local-store-helper#readme",
   "author": "Alamin",
   "license": "ISC",
   "devDependencies": {
